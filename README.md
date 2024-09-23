@@ -84,7 +84,3 @@ Each capture session creates a new CSV file with the following columns:
 ## Logging
 
 The application logs its operations and any errors to `logs/window_capture.log`. Check this file if you encounter any issues or want to monitor the application's activity.
-
-## Contributing
-
-Contributions to improve the application are welcome. Please feel free to submit pull requests or create issues for bugs and feature requests.
