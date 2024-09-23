@@ -4,7 +4,7 @@ This application captures information about open windows on a Windows system at 
 
 ## Disclaimer
 
-**This code is generated using a large language model (LLM). I take no responsibility for the code quality, security vulnerabilities, or any other issues that may arise from using this code. Use at your own risk.**
+**This code was generated using a large language model (LLM). I take no responsibility for the code quality, security vulnerabilities, or any other issues that may arise from using this code. Use at your own risk.**
 
 ## Features
 
