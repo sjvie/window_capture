@@ -1,0 +1,5 @@
+pywin32>=223
+psutil>=5.0.0
+schedule>=0.6.0
+pystray>=0.14.0
+Pillow>=7.0.0
